@@ -1,0 +1,19 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  background: #474747;
+}
+
+canvas{
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
+
+button{
+  display: block;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+}
