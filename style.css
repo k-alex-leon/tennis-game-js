@@ -10,6 +10,10 @@ canvas{
   margin: 0 auto;
 }
 
+.button-container{
+  display: flex;
+}
+
 button{
   display: block;
   padding: 10px;
@@ -17,3 +21,4 @@ button{
   color: white;
   border: none;
 }
+
